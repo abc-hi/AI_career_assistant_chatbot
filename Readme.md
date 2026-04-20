@@ -110,7 +110,7 @@ Your architecture is:
 Streamlit Cloud cannot access your laptop directly.
 So ngrok acts as the bridge.
 Streamlit Cloud → ngrok URL → your laptop → FastAPI → Ollama → RAG
-
+<!--backend url: https://pagan-wildcard-virtual.ngrok-free.app/chat" to checkon browser backend url:https://pagan-wildcard-virtual.ngrok-free.app/chat?query=hello"-->
 
 
 ## ▶️ How to Run
@@ -127,4 +127,4 @@ ollama run llama3
 🔹 Terminal 3 – Start Frontend (Streamlit)
 # streamlit run streamlit_app.py
 ngrok http 8000
-backend url:https://pagan-wildcard-virtual.ngrok-free.dev/chat?query=reva
+backend url:https://pagan-wildcard-virtual.ngrok-free.dev/chat
