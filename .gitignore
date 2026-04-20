@@ -1,5 +1,4 @@
-Data/
-*.csv
-*.pkl
-*.faiss
 __pycache__/
+*.pyc
+.env
+venv/

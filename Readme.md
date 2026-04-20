@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 AI-powered chatbot that suggests **job roles based on user skills and experience** using **Retrieval-Augmented Generation (RAG)**.
+source:https://www.kaggle.com/datasets/dhruval97/datasetresume/data
 
 The system retrieves relevant profiles from a dataset and uses an LLM to generate **accurate, structured career recommendations**.
 
