@@ -112,6 +112,7 @@ So ngrok acts as the bridge.
 Streamlit Cloud → ngrok URL → your laptop → FastAPI → Ollama → RAG
 <!--backend url: https://pagan-wildcard-virtual.ngrok-free.dev/chat" to checkon browser backend url:https://pagan-wildcard-virtual.ngrok-free.dev/chat?query=hello"-->
 backend url:https://pagan-wildcard-virtual.ngrok-free.dev/chat
+live demo url(frontend)
 
 
 ## ▶️ How to Run
